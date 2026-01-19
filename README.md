@@ -7,11 +7,15 @@ This repository contains all my Java programming exercises and projects, organiz
 - **TP_Java_OOP:** Object-Oriented Programming exercises: classes, objects, inheritance, polymorphism.
 - **TP_Java_Advanced:** advanced exercises including exception handling, file I/O, and collections.
 
+## Structure
+- `TP_Java_Basics/`
+- `TP_Java_OOP/`
+- `TP_Java_Advanced/`
 
-## Objectives
-- Understand Java syntax and basic programming concepts
-- Learn how to write and run simple Java programs
-- Practice problem-solving using Java
+Each subfolder has its own `README.md` with more details.
+
+## Author
+Aya Neeko
 
 ## Contents
 - `src/` : Java source code files
