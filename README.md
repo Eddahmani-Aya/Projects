@@ -1,7 +1,12 @@
 
 
 ## Description
-This repository contains basic Java programming exercises including variables, loops, and conditional statements.
+This repository contains all my Java programming exercises and projects, organized by level:
+
+- **TP_Java_Basics:** basic Java concepts including variables, loops, and conditionals.
+- **TP_Java_OOP:** Object-Oriented Programming exercises: classes, objects, inheritance, polymorphism.
+- **TP_Java_Advanced:** advanced exercises including exception handling, file I/O, and collections.
+
 
 ## Objectives
 - Understand Java syntax and basic programming concepts
